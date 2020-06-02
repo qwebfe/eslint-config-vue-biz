@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-vue-biz",
+  "version": "0.0.1",
+  "description": "An ESLint Shareable Config for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qcft/eslint-config-vue-biz.git"
+  },
+  "author": "leimeimei",
+  "keywords": [
+    "biz",
+    "vue",
+    "eslint",
+    "standard"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qcft/eslint-config-vue-biz/issues"
+  },
+  "homepage": "https://github.com/qcft/eslint-config-vue-biz#readme",
+  "peerDependencies": {
+    "@vue/eslint-config-standard": ">=4.0.0",
+    "eslint-plugin-vue": ">=6.2.2"
+  }
+}
