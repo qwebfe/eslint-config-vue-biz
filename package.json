@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/qcft/eslint-config-vue-biz.git"
   },
-  "author": "leimeimei",
+  "author": "mileOfSunshine",
   "keywords": [
     "biz",
     "vue",
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/qcft/eslint-config-vue-biz#readme",
   "peerDependencies": {
     "@vue/eslint-config-standard": ">=4.0.0",
-    "eslint-plugin-vue": ">=6.2.2"
+    "eslint-plugin-vue": ">=6.2.2",
+    "babel-eslint": ">=10.0.1"
   }
 }
