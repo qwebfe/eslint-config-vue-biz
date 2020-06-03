@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue-biz",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An ESLint Shareable Config for Vue",
   "main": "index.js",
   "scripts": {
