@@ -13,6 +13,8 @@ module.exports = {
       { ignoredNodes: ['TemplateLiteral'] },
     ],
     'template-curly-spacing': 'off',
+    'prefer-template': 'error'
+    
   },
   parserOptions: {
     parser: 'babel-eslint',
